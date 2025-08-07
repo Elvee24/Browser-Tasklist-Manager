@@ -44,7 +44,7 @@ Barebones website code with all the essentials:
 - Styled buttons and crossed out text for checked items
 - My signature and unicode for the copyright icon:
 ```html
-&#169; Stella Tvenning
+&#169; StellaBytes
 ```
 It also contains a hidden error message if the user doesn't allow cookies or have localStorage disabled.
 
